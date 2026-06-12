@@ -26,7 +26,7 @@
     
     const url = 'https://go.aff.esportiva.bet/6j30imbu?campaign_id=7181'
 
-    const shareCode = '&shareCode=PBQCEIRRXT7'
+    const shareCode = '&shareCode=Z5VP7J7ULH6'
     
     const afp = '&afp2=tp'
     
